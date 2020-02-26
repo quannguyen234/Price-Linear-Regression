@@ -7,6 +7,7 @@ This is the first project where I actually got to create a simple model for pred
 Initially the goals were: 
 - Using Multiple Linear Regression to see if a product is likely to have a decrease in price
 - To see if there is a month in a year where product prices are generally lower than other months
+
 After a few days working on this project, I realized that the data I had was not appropriate to perfrom these tasks. So in this README, I will walk you through the initial process and later point out the big mistake that's why this doesn't work.
 
 ### Dataset
